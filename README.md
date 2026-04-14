@@ -1,4 +1,4 @@
-# Mi Proyecto Personal
+# Proyectos
 
 [Proyecto Personal](https://dulcet-licorice-7d5e33.netlify.app/)
 
